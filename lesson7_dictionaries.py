@@ -1,8 +1,4 @@
-#!/usr/bin/python
-
-##################
-#      Dictionaries
-#      Name : Lance Jayden   
+#      name:Lance
 #      Date : 23 / 5 / 2021
 ##########################
 

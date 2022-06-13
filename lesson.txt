@@ -1,0 +1,10 @@
+This is a normal text file  
+Learning python is fun 
+Chelsea is the best club right now in England
+
+f = open("lesson.txt")
+f = open("lesson.txt",'w')
+r = reading
+w = writting
+x = creates new file 
+f = opens ("lesson2.txt",'x')

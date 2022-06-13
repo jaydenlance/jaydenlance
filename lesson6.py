@@ -12,6 +12,6 @@ motorcycle = [`honda`,`yamaha`,`suzuki`]
 #print(motorcycle[1],str(plate number))
 #print(motorcycle)
 #My name is Mojo Jojo and i own a mortocycle plate number 
-print( `My name is (motorcycle owner) and i own a (motorcycle[0])plate number
+print(`My name is (motorcycle owner) and i own a (motorcycle[0])plate number)
 
 
